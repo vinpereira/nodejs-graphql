@@ -12,8 +12,7 @@ A simple case study of how to use GraphQL with Node.js
 1. Clone this repo
 2. At nodejs-graphql folder execute ```npm install``` to install all dependencies
 3. Then, at the same folder, execute ```node index.js``` to start it
-5. Start the server with ```rails s```
-6. Using your browser, access the following url: ```http://localhost:3000/user?query={user(id:2){id,name,age,knowledge{language,frameworks}}}```
+4. Using your browser, access the following url: ```http://localhost:3000/user?query={user(id:2){id,name,age,knowledge{language,frameworks}}}```
 
 #### More examples
 Return only one user:
