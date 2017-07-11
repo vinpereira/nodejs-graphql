@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-graphql": "^0.6.6",
+    "graphql": "^0.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinpereira/nodejs-graphql.git"
+  },
+  "author": "Vinícius Pereira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinpereira/nodejs-graphql/issues"
+  },
+  "homepage": "https://github.com/vinpereira/nodejs-graphql#readme"
+}
